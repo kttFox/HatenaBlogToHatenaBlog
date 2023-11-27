@@ -17,6 +17,9 @@ https://developer.hatena.ne.jp/ja/documents/blog/apis/atom
 移行元のはてなID、ブログID、APIキー  
 移行先のはてなID、ブログID、APIキー を指定してください。
 
+[実行例]  
+![image](https://github.com/kttFox/HatenaBlogToHatenaBlog/assets/22765277/c64c0bd1-9c2a-4547-91af-c1cd535ed9ff)
+
 # オプション
 ```
 -o,  --oldHatenID   <oldHatenID>   (必須) 移行元のはてなID  
